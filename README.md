@@ -10,7 +10,7 @@
 
 #### 1、阿里巴巴前端开发规范
 
-<img src="assets/image-20211125203049338.png" alt="image-20211125203049338" style="zoom:25%;" /> 
+<img src="assets/image-20211125203049338.png" alt="image-20211125203049338" style="zoom:25%;" /> ![image-20211125203450905](assets/image-20211125203450905.png)
 
 前端开发规范，和阿里巴巴Java开发手册一样，适用于规范自己写的代码！
 
