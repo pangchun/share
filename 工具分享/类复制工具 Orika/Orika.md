@@ -24,7 +24,7 @@ public interface SmsTemplateConverter {
 
 在调研了众多类复制工具后，我选择了 Orika，并通过 demo 验证确实可行，在了解 Orika 前，不妨了解一下各个类复制工具的对比，如下图示：（图片源于网络，如有侵权，请联系删除）
 
-![image-20211129173956230](assets/image-20211129173956230.png)
+![image-20211129173956230](https://public-pangchun.oss-cn-guangzhou.aliyuncs.com/blog/orika/image-20211129173956230.png)
 
 ## 使用示例
 
